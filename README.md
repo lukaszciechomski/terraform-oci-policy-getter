@@ -1,0 +1,1 @@
+# terraform-oci-policy-getter
